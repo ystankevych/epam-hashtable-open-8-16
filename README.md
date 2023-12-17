@@ -4,6 +4,7 @@
 Implement [`com.epam.rd.autocode.hashtableopen816.HashtableOpen8to16`](src/main/java/com/epam/rd/autocode/hashtableopen816/HashtableOpen8to16.java) `getInstance` method.
 
 It should return a `HashtableOpen8to16` instance.
+- This is a linear probing hash table implementation. The main requirements - if the bucket is already occupied, you need to find the next free bucket using linear probing.
 
 There are several specifics of this hashtable implementation.
 - Hashtable implementation must support open linear addressing.
